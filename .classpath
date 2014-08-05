@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="employee  payment/src"/>
+	<classpathentry excluding="src/" kind="src" path="g"/>
+	<classpathentry kind="src" path="g/src"/>
+	<classpathentry kind="src" path="homework1/src"/>
+	<classpathentry kind="src" path="InClassCodingExam/src"/>
+	<classpathentry kind="src" path="mohiuddin/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="my homework/bin"/>
+</classpath>
